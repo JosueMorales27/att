@@ -1,0 +1,168 @@
+ mta-84-208.sparkpostmail.com (mta-84-208.sparkpostmail.com. [192.174.84.208])
+
+	asurion-reply@home.asurion.com
+
+LISTED	SORBS SPAM 	192.174.84.208 was listed  
+3600	10	Ignore
+Status Problem LISTED	TRUNCATE 	192.174.84.208 was listed  
+7111	0
+-------------------------------------------------------------------------------------
+
+smtp8.sjc1.qemailserver.com (smtp8.sjc1.qemailserver.com. [162.247.217.57])
+noreply@qualtrics-survey.com
+ 	Blacklist 	Reason	TTL	ResponseTime	
+Status Problem LISTED	DRONE BL 	162.247.217.57 was listed  
+300	49
+-------------------------------------------------------------------------------------
+invites@csat.att-mail.com
+162.247.217.61
+from smtp2.sjc1.qemailserver.com (smtp2.sjc1.qemailserver.com. [162.247.217.61])
+<https://attcx.sjc1.qualtrics.com/jfe/form malware attack , credentials stealing 
+
+urgent , this ip is not listed in any cibersecurity platforms !
+Checking 162.247.217.61 against 83 known blacklists...
+Listed 0 times with 0 timeouts 
+
+
+url scanner cant sacn the link , virustotal did and heres is the info about the scammers
+ website > 
+FINAL URL < https://attcx.az1.qualtrics.com/login
+SERVING IP ADDRES > https://www.virustotal.com/gui/ip-address/23.39.61.225
+HEADERS > Content-Length
+5072
+Permissions-Policy
+camera=(), geolocation=(), microphone=()
+Strict-Transport-Security
+max-age=31536000; includeSubDomains; preload
+dc
+az1
+Content-Security-Policy-Report-Only
+report-uri https://sjc1.qualtrics.com/csp-report
+Connection
+keep-alive
+X-EdgeConnect-MidMile-RTT
+1
+X-EdgeConnect-Origin-MEX-Latency
+194
+x-request-id
+a701814f-20ec-438c-9dda-613b87d5a93e
+x-content-type-options
+nosniff
+Host
+45
+x-transaction-id
+0599fde1-81f5-46e7-9043-a4e6171ed346
+Pragma
+no-cache
+Cache-Control
+no-cache, no-store
+Date
+Sun, 11 Jun 2023 22:52:58 GMT
+x-frame-options
+SAMEORIGIN
+referrer-policy
+strict-origin-when-cross-origin
+Content-Type
+text/html;charset=UTF-8 
+------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+
+invites@csat.att-mail.com
+Received: from smtp6.sjc1.qemailserver.com (smtp6.sjc1.qemailserver.com. [162.247.217.55])
+
+https://attcx.sjc1.qualtrics.com/jfe/form ,
+ <https://www.kantar.com/KINA-privacy-policy-survey-research>.
+
+
+-----------------------------------------------------------------------
+
+----------
+
+
+update@emaildl.att-mail.com
+Asunto:	Proceso su Pago A AT&T Por Cuenta Finalizan en 2434
+SPF:	PASS con la IP 144.160.112.12 Más información
+DMARC:	'PASS' Más información
+
+<update.1278224910@emaildl.att-mail.com
+Received: from egssmtp01.att.com (egssmtp01.att.com. [144.160.112.12])
+
+Se proces=F3 su pago A AT&T
+
+
+Hola JOSUE,
+
+Muchas gracias por el pago. Su pago se proces=F3 correctamente y quedar=E1=
+=20
+registrado de inmediato en su cuenta.  A continuaci=F3n=20
+encontrar=E1 los datos de la transacci=F3n de su pago.
+
+TIPO DE SERVICIO            : Wireless
+CUENTA DE AT&T TERMINA EN   : 2434
+FORMA DE PAGO               : Visa
+N=DAMERO DE CUENTA TERMINA EN : 7658
+CONFIRMACI=D3N                : 7ZY7EPAYI02RG5N
+PAGO FECHA                  : 01/17/2024
+CANTIDAD                    : $158.72
+
+
+Inicie sesi=F3n y administre su informaci=F3n de facturaci=F3n y pago.
+https://www.att.com/acctmgmt/login
+https://www.virustotal.com/gui/ip-address/2.21.189.147/
+ https://www.virustotal.com/gui/domain/www.att.com
+This website contacted 16 IPs in 1 countries across 8 domains to perform 80 HTTP
+ transactions.
+ The main IP is 144.161.106.163,
+ located in United States and belongs to AMERITECH-AS, US.
+ The main domain is signin.att.com. The Cisco Umbrella rank of the primary domain is 31502.
+TLS certificate: Issued by DigiCert Global G2 TLS RSA SHA256 202... on May 1st 2023.
+ Valid for: a year. 
+
+----------------------------------------------------------------------------
+ <ATT@message.att-mail.com>
+https://message.att-mail.com
+SPF:    PASS con la IP 129.157.116.136 Más información
+DKIM:   'PASS' con el dominio message.att-mail.com Más información
+DMARC:  'PASS' Más información\
+Return-Path: <ATT@message.att-mail.com>
+Received: from omp.message.att-mail.com (omp.message.att-mail.com. [129.157.116.136])
+
+www.hometechprotection.com
+https://message.att-mail.com/pub/cc?_ri_=3DX0Gzc2X%3DAQp=
+glLjHJlDQGffCNNIzgCzbRgFiUMJIizfGaBqzawRUw6JzeeXPwNyfaToH0zd95le1o8AzgiTDe2=
+zdezdPJzdfVXtpKX%3DASRYCRD&amp;_ei_=3DET0GIN-bd6lWtyjBG6WX6Ai1QdqHcbm6KNOJ0=
+gjRqLjm3LWyDysOo2LM2IhEfOBZgT446W5SvA2ug6tyuKnvg1yk6gCCzDFiPA8Lyvy5mw7HdQ86=
+Q6o5JulEZyoh-JORMM2y9jWd0XAj9hcetlXEAipAZP7Mj3zd0XI2MVjnOkXQkecSEbkaYBQgxpc=
+ieeqMFaPuv2BSiq-EHClYVy76sYO5q7CAYjBv9Lnj-iEPN8mPspOcsW3W3PgL2ZbRgJFr50bndL=
+pi57lY2INy65-nmaK-9WuWgR5hWSJwJ0.&amp;_di_=3Drgp0oj2vgubt19r2agivodnfnhnjmc=
+b9rb9mf0lg1o45h4oaqai0" style=3D"color:#009fdb; text-decoration:underline; =
+white-space:nowrap" target=3D"_blank" >here</a> to unsubscribe.<br><br>
+-----------------------------------------------------------------------------------
+update@account.att-mail.com
+13.111.172.112
+https://click.account.att-mail.com/?qs=5c72f5ebb2fb465b38d2105d9f76a58f095e39a58e9179dc0ea9c10bcbcb4c944e8ddfbd314981dffe94e41348eae5ce1ae0a440995900c7a0735772cd269a96 
+Ingresar ahora
+
+
+https://click.account.att-mail.com/?qs=5c72f5ebb2fb465b930920ecf41ee4449784a9f7ea8ba217ed9d33250b1bea3dd3062471d5f0e36e33ddc872220237041299c53e4950623757f131b8187052b0 
+Return-Path	<bounce-15_HTML-261184839-52515-514005537-4886@bounce.account.att-mail.com>
+Received-SPF	pass (google.com: domain of bounce-15_html-261184839-52515-514005537-4886@bounce.account.att-mail.com designates 13.111.172.112 as permitted sender) client-ip=13.111.172.112;
+Authentication-Results	mx.google.com; dkim=pass header.i=@account.att-mail.com header.s=11dkim1 header.b=fs9IioNd; spf=pass (google.com: domain of bounce-15_html-261184839-52515-514005537-4886@bounce.account.att-mail.com designates 13.111.172.112 as permitted sender) smtp.mailfrom=bounce-15_HTML-261184839-52515-514005537-4886@bounce.account.att-mail.com; dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=account.att-mail.com
+DKIM-Signature	v=1; a=rsa-sha256; c=relaxed/relaxed; s=11dkim1; d=account.att-mail.com; h=From:To:Subject:Date:List-Help:MIME-Version:Reply-To:List-ID: X-CSA-Complaints:Message-ID:Content-Type; i=update@account.att-mail.com; bh=1VpWwKZ9Nsmjs1h71vmFHy2CYj2hX1/3wRRZcsBGyiw=; b=fs9IioNdeL2UMaEuSnXpVjiTuBDO+aV6RSsDImF09ZL2HIA9ggH6t/6HVdJ2Rbx6e77s5LzvD0UT EEgH4qubBuzhoKFZg44et7mgofMYQ+6wWl3Oh4Bs4q2dEuPCsdyh9y74d67mVw7zMBHrHVmvdJ5D mLEmAO6kfCmnwNO4h782l0Sipu2Fxi6E2o7i66F5OFiVtVXXgcExhTinLyWDAa851UlVgFEwL0XL 2dmFbv+bQj8uUu4TajjwihXNZBiKmlSiZIf2II1i6cqri8ojn2GU7qAUbzO7LTuHWSXdwRUjbZaQ ul02SRYL2/6pSov7VLUBAiIzh4i+P8Lu4JV3xA==
+From	"AT&T Account Management" <update@account.att-mail.com>
+To	<lunarsitos.jedi@gmail.com>
+Subject	Tu tarjeta vencerá pronto
+Date	Tue, 09 Jan 2024 12:12:18 -0600
+List-Help	<https://click.account.att-mail.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MTQwMDU1MzciLCJzIjoiMjYxMTg0ODM5IiwibGlkIjoiMTUiLCJqIjoiNTI1MTUiLCJqYiI6IjQ4ODYiLCJkIjoiMTEwMDQwIn0.XqgfZ_96X_epc0m4RXOvWm8dIQEseYnyMZ445iuiuKE>
+x-CSA-Compliance-Source	SFMC
+MIME-Version	1.0
+Reply-To	"AT&T Account Management" <reply-fefd1172706501-15_HTML-261184839-514005537-4886@account.att-mail.com>
+List-ID	<514005240.xt.local>
+X-CSA-Complaints	csa-complaints@eco.de
+X-SFMC-Stack	11
+x-job	514005537_52515
+Message-ID	<0f288cde-0999-4015-9aa1-27abb29e6626@atl1s11mta408.xt.local>
+Feedback-ID	514005537:52515:13.111.172.112:sfmktgcld
+Content-Type	multipart/alternative; boundary="VmRMQSEvhBkX=_?:"
+-----------------------------------------------------------------------------------------
