@@ -1,4 +1,4 @@
- mta-84-208.sparkpostmail.com (mta-84-208.sparkpostmail.com. [192.174.84.208])
+mta-84-208.sparkpostmail.com (mta-84-208.sparkpostmail.com. [192.174.84.208])
 
 	asurion-reply@home.asurion.com
 
@@ -165,4 +165,261 @@ x-job	514005537_52515
 Message-ID	<0f288cde-0999-4015-9aa1-27abb29e6626@atl1s11mta408.xt.local>
 Feedback-ID	514005537:52515:13.111.172.112:sfmktgcld
 Content-Type	multipart/alternative; boundary="VmRMQSEvhBkX=_?:"
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+
+
+	AT&T <ATT@message.att-mail.com>
+Para:	lunarsitos.jedi@gmail.com
+Asunto:	Josue, deja que myAT&T te facilite las cosas
+SPF:	PASS con la IP 129.157.117.47 Más información
+DKIM:	'PASS' con el dominio message.att-mail.com Más información
+DMARC:	'PASS' Más información
+
+Return-Path: <ATT@message.att-mail.com>
+Received: from omptrans.message.att-mail.com (omptrans.message.att-mail.com. [129.157.117.47])
+        by mx.google.com with ESMTPS id d14-20020a0cf0ce000000b0067f0d1677e7si2833433qvl.517.2023.12.21.11.19.12
+        for <lunarsitos.jedi@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 21 Dec 2023 11:19:13 -0800 (PST)
+Received-SPF: pass (google.com: domain of att@message.att-mail.com designates 129.157.117.47 as permitted sender) client-ip=129.157.117.47;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@message.att-mail.com header.s=attne-20200117 header.b=mmeKsNvC;
+       spf=pass (google.com: domain of att@message.att-mail.com designates 129.157.117.47 as permitted sender) smtp.mailfrom=ATT@message.att-mail.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=message.att-mail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=attne-20200117; d=message.att-mail.com; h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To: Subject:Feedback-ID:Message-ID; i=ATT@message.att-mail.com; bh=C0S/U2lN+yekvXokjOso1Gftetg0cxi9wazWuklYcRw=; b=mmeKsNvCtFU0ZQJw6Zi56JiHRX9uv9l69EwJ2B1JY8cWZWgBQLjuNnBcRIwNjcPAyU57t1lopEjB
+   SiS5tkGRxoasagQQsispzDC3NQjwQp+Hfk6C6LmNvXp84Qd709mp5URtJfeQF++W2QAw7qzt9TP6
+   MDn4jjoyPG7kjUfwFu1nAezCUBQ3ZkrQemBcjS2IUAWCHUB5Md+qbfEGAacTxeHFCL+ChAbJ/mvg
+   613vC1ecEvDAwdubjzNgfBDzfER0FJ8CARCbnR/Lxf8qF/r2ZEMbb0TFwv2IhTghexsPuZEusshJ
+   mOr4Z4Z+FrEHf4O9/dl2Xe971cFPPPD05j4K0w==
+Received: by omptrans.message.att-mail.com id hgi7r032bv0q for <lunarsitos.jedi@gmail.com>; Thu, 21 Dec 2023 19:19:07 +0000 (envelope-from <ATT@message.att-mail.com>)
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 21 Dec 2023 19:19:07 +0000
+To: lunarsitos.jedi@gmail.com
+From: "AT&T" <ATT@message.att-mail.com>
+Reply-To: "AT&T" <reply@message.att-mail.com>
+Subject: Josue, deja que myAT&T te facilite las cosas
+Feedback-ID: 80892:15192609:oraclersys
+X-sgxh1: tmgHjkplhkQrLKpxnuHptQJhu
+X-rext: 6.interact9.EXR-X1P2vkVT-Szk-dL0O1FKjuDiOmFHZpWCoBOZXXIunXsALzZq8a0BIkdnI-YNh0
+X-cid: attne.9683509
+X-ei: EM-BcfzLwVnry7YNb6_wp0eOowpjsRGdMn9Xt5oFobUCKlBkUOjil1vhMfcTAjI_tPysZQ0
+X-cp: EJ3sgc2g5l77sGLj8jPDXsL73S4sfyAmoJjbsHAeb87rO6vC2ngPgyxGfvbd5KUdvcEQDwZMSLiGvVvBBSm-m2dbI-ztubmYgdw1MUDYRpUbOYqEHyaht6dsyKgiUC73ae0cugmfoD6Tfw
+Message-ID: <0.0.4.47C.1DA3442918CFF94.0@omptrans.message.att-mail.com>
+
+Your DNS hosting provider is "Akamai Technologies, inc."  Need Bulk Dns Provider Data?
+
+Reported by a8-64.akam.net on 1/25/2024 at 10:54:51 PM (UTC 0), just for you.  
+	"AT&T" <ATT@message.att-mail.com>
+	"AT&T" <reply@message.att-mail.com>
+
+
+Decimal:2174580015
+
+Hostname:omptrans.message.att-mail.com
+
+ASN:14506
+
+ISP:Oracle Corporation
+
+Services:Datacenter
+Likely mail server
+
+Assignment:Likely Static IP
+
+Country:United States
+
+State/Region:California
+
+City:Belmont
+
+Latitude:37.5324 (37° 31′ 56.78″ N)
+
+Longitude:-122.2488 (122° 14′ 55.80″ W)
+https://message.att-mail.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlDQGzc0qzcSyTNsze2q1FsqKeRwSzgdrm9pwuzgazdi48h7wzdzczcbmgzck6eFzdzbCHR7bsKgbq5voRVXtpKX%3DYWUTRCD&_ei_=ET0GIN-bd6lWtyjBG6WX6Ai1QdqHcbm6KNOJ0gjRqLjm3LWyDysOo2LM2IhEfOBZgT446W5SvA2ug6tyuKnvg1yk6gCCzDFiPA8Lyvy5mw7HdQ86Q6o5JulEZyoh-JORMU9fCNago2_bW5pwCFo4jcys1HczuSYknqT5ktX4jYjfNB4xmC4j6yN6kU6EvUzEt2v6q6kZ8qoCKiQRpMxrIzm7tMRcMZnDhYgykjlY6rs1UN7DLZ7FdY0.&_di_=b9haraqgll778dkoq4f3t7lnhok1asko9f9766b5trobj6oq9ag0
+
+---------------------------------------------------------------------------------------------------------------
+ID de mensaje	<270583950.331327.1701206956032@egs-eastus2-prod-app-vm-03.az.3pc.att.com>
+Creado a las:	28 de noviembre de 2023, 13:29 (entregado en 0 segundos)
+De:	AT&T Account Management <update@emaildl.att-mail.com>
+Para:	lunarsitos.jedi@gmail.com
+Asunto:	Please confirm your email address
+SPF:	PASS con la IP 144.160.112.12 Más información
+DMARC:	'PASS
+
+Return-Path: <update.1184572153@emaildl.att-mail.com>
+Received: from egssmtp01.att.com (egssmtp01.att.com. [144.160.112.12])
+        by mx.google.com with ESMTPS id c20-20020a056808139400b003acb0db11b9si5373605oiw.38.2023.11.28.13.29.16
+        for <lunarsitos.jedi@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Nov 2023 13:29:16 -0800 (PST)
+Received-SPF: pass (google.com: domain of update.1184572153@emaildl.att-mail.com designates 144.160.112.12 as permitted sender) client-ip=144.160.112.12;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of update.1184572153@emaildl.att-mail.com designates 144.160.112.12 as permitted sender) smtp.mailfrom=update.1184572153@emaildl.att-mail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=att-mail.com
+Received: from egs-eastus2-prod-app-vm-03.az.3pc.att.com (bastion-cnxs02-w2-84.az.3pc.att.com [130.3.107.84]) by egssmtp01.att.com (8.15.2 BerkeleyDB.5.2/8.15.2) with ESMTP id 3ASLTGZE114450 for <lunarsitos.jedi@gmail.com>; Tue, 28 Nov 2023 15:29:16 -0600
+Date: Tue, 28 Nov 2023 15:29:16 -0600 (CST)
+From: "AT&T Account Management" <update@emaildl.att-mail.com>
+Reply-To: "AT&T Account Management" <update.1184572153@emaildl.att-mail.com>
+To: lunarsitos.jedi@gmail.com
+Message-ID: <270583950.331327.1701206956032@egs-eastus2-prod-app-vm-03.az.3pc.att.com>
+Subject: Please confirm your email address
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_331324_176297311.1701206956029"
+
+------=_Part_331324_176297311.1701206956029
+Content-Type: multipart/alternative; boundary="----=_Part_331325_1362415539.1701206956029"
+
+------=_Part_331325_1362415539.1701206956029
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+https://www.att.com/legal/terms.exhibitV.html
+https://m.att.com/my/#/verifyEmail?p=3Dcx3oFhhnAS.fn74@U8Gzm.kvI_K_A9_l1u4P=
+5CNJYRz
+https://m.att.com/myatt/#/passthrough/contactInfo?tab=3Demail
+https://www.att.com/myatt
+We care about helping you keep your account secure. If you have questions a=
+bout this communication, please call us at 800.288.2020.
+
+Go Paperless - Reduce clutter with online billing.
+https://www.att.com/acctmgmt/passthrough/settings?manage-pb=3Dtrue
+
+Set up AutoPay - Save time and pay your bill automatically!
+https://www.att.com/acctmgmt/passthrough/settings?manage-ap=3Dtrue
+
+myAT&T app - Manage your account virtually anywhere, 24/7
+https://m.att.com/myatt/native/deepLink.html?action=3DOverview&appInstall=
+=3DY
+
+
+      =20
+
+Sign-in myAT&T Account:
+https://www.att.com/acctmgmt/login
+
+Personal accounts:
+Support: https://www.att.com/esupport
+Contact us: https://www.att.com/contactus
+
+Business accounts:
+Support: https://www.att.com/esupport/smbindex.jsp
+Contact us: https://www.att.com/contactus/smb/
+
+TTY and relay services available
+
+Please do not reply to this message.=20
+
+All replies are automatically deleted. For questions regarding=20
+this message, refer to the contact information listed above.=20
+
+=A92023 AT&T Intellectual Property. All rights reserved. AT&T,=20
+Globe logo, and DIRECTV are registered trademarks of AT&T intellectual=20
+property and/or AT&T affiliated companies. All other marks are the property=
+=20
+of their respective owners.
+
+AT&T Privacy Policy
+https://about.att.com/privacy/full_privacy_policy.html
+
+DIRECTV Privacy Policy
+https://www.directv.com/privacy/video-privacy-policy/
+
+Google Safe Browsing: No classification for m.att.com
+Current DNS A record: 2.23.197.91 (AS16625 - AKAMAI-AS, US)
+Domain created: April 24th 1986, 19:00:00 (UTC)
+Domain registrar: CSC CORPORATE DOMAINS, INC.
+
+
+ This website contacted 10 IPs in 3 countries across 7 domains to perform 89 HTTP transactions. The main IP is 2a02:26f0:3100:3b1::2db1, located in Frankfurt am Main, Germany and belongs to AKAMAI-ASN1, NL. The main domain is m.att.com. The Cisco Umbrella rank of the primary domain is 64318.
+TLS certificate: Issued by DigiCert TLS RSA SHA256 2020 CA1 on November 9th 2023. Valid for: a year. 
+Submitted URL:
+http://edp.att.com/6e9430cd
+Effective URL:
+https://m.att.com/my/ 
+
+-----------------------------------------------------------------------------------------------------
+
+ID de mensaje	<572619884.315027.1701206952778@zlpvffb>
+Creado a las:	28 de noviembre de 2023, 13:29 (entregado en 2 segundos)
+De:	AT&T Signature Program/Appreciation Offer Enrollment <update@emaildl.att-mail.com>
+Para:	lunarsitos.jedi@gmail.com
+Asunto:	Don't forget to upload your ID!
+SPF:	PASS con la IP 144.160.112.15 Más información
+DKIM:	'PASS' con el dominio emaildl.att-mail.com Más información
+DMARC:	'PASS' Más información
+
+
+Descargar original	Copiar en el portapapeles	
+Delivered-To: lunarsitos.jedi@gmail.com
+Received: by 2002:a05:7300:8e0a:b0:fb:d3a6:113d with SMTP id j10csp1094648dys;
+        Tue, 28 Nov 2023 13:29:15 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IHzgQb7BbgZMB9kT1uJ6wfZyrVTqTEmgZC1UNA7RPQKAuTg5mJMGuen4HheCWEONoVQ+mXd
+X-Received: by 2002:a0d:d814:0:b0:5c1:25f:567d with SMTP id a20-20020a0dd814000000b005c1025f567dmr15427005ywe.16.1701206954925;
+        Tue, 28 Nov 2023 13:29:14 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1701206954; cv=none;
+        d=google.com; s=arc-20160816;
+        b=rTSei9nZWtb8IJk8OE/BztA6FZsXRzrfG4PvdkqT6IlzHuzL7hkRPu0Ysln3NmuYew
+         M9yftqEcKAXt5u5NU6/gUGq089YGT1ko1EmaL7RQ68i/5DVC45HeK0w27mQS8tCEnhJ1
+         9P2CXHSSCdVhT4CQDzmTRVk4DuxJgoms6gnHrz8+sxz2Ghrwo/n68Pk37AGdGqn7fIC7
+         SbfLKKuNslridKJ3/FhrbRyn4WHrUTRVwxZonCn2Mo7S4USD1FS1/e0d9EoDt9g14x6t
+         E4WejiyKBY6VRU+ywm+XGnBiITm+fUJHjzPm1A7PWNDAdqTqvcph0s7T5C5nbB/0bIYS
+         Z/kQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:subject:message-id:to:reply-to:from:date
+         :dkim-signature;
+        bh=onx13grcNJl3LfhdhooKyKntAniWzSC4vp2UYk557kQ=;
+        fh=/BRwyFDWA9FZ9b3n0/JJG2Ubo3VS4yHI+dGBnshGrqA=;
+        b=tz1v4A495mOrICnvP7KJOnrzQzBqKSUPJZDsTgkI+vhUcsf8tjfPOVMdVFyQa3Lmm2
+         +O4jtLxIFOTk7km2Evt6I2upRWo3zs3p34fx1O1AW8B7qBMwJhKYTK3pRzEobFES3lSO
+         3h4H8v3H7GQLWeX1/2q261m6JkQiqb7g4O9bO+B2Y3SzS7KmFGOYgAPArbga9SEQjnUl
+         TasSUWzwSYbsghAN5mL3TbNEBwCANVdgX0jl9rne3XgosIa2Pe9Vw+LMQHCbc97+qwvs
+         VrETIQgZfuaGjFn4IW/jWcndGkCU+woRuAiPrMDKY8tMnzYCdonR9M7A22e16IlQp/lp
+         ZL5A==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass (test mode) header.i=@emaildl.att-mail.com header.s=egs03 header.b=jaO8ua8X;
+       spf=pass (google.com: domain of update.1184572081@emaildl.att-mail.com designates 144.160.112.15 as permitted sender) smtp.mailfrom=update.1184572081@emaildl.att-mail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=att-mail.com
+Return-Path: <update.1184572081@emaildl.att-mail.com>
+Received: from egssmtp04b.att.com (egssmtp04b.att.com. [144.160.112.15])
+        by mx.google.com with ESMTPS id bx13-20020a05690c080d00b0059bb8adc015si8378433ywb.344.2023.11.28.13.29.14
+        for <lunarsitos.jedi@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 28 Nov 2023 13:29:14 -0800 (PST)
+Received-SPF: pass (google.com: domain of update.1184572081@emaildl.att-mail.com designates 144.160.112.15 as permitted sender) client-ip=144.160.112.15;
+Authentication-Results: mx.google.com;
+       dkim=pass (test mode) header.i=@emaildl.att-mail.com header.s=egs03 header.b=jaO8ua8X;
+       spf=pass (google.com: domain of update.1184572081@emaildl.att-mail.com designates 144.160.112.15 as permitted sender) smtp.mailfrom=update.1184572081@emaildl.att-mail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=att-mail.com
+Received: from zlp46034.vci.att.com (zlp46034.vci.att.com [135.68.200.228]) by egssmtp04b.att.com (8.15.2 BerkeleyDB.5.2/8.15.2) with ESMTPS id 3ASLTDnh017721 (version=TLSv1.2 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO) for <lunarsitos.jedi@gmail.com>; Tue, 28 Nov 2023 15:29:14 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=emaildl.att-mail.com; s=egs03; t=1701206954; bh=v/wq/k6iyXM4NI3JM3t+lCSiuV45zXQVo2yOlx2P6wo=; h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:
+	 Content-Type; b=jaO8ua8Xd/cycgdRsfI0emeHXZrEh0PUk6WjWuf0PODG5YNmi4rwIHKOhVGjeaShO
+	 mDf2Eybg+R+z9rPgfSy1wdSBagCOAnQdbrfc2VJnXGzC388PkKfEUH23EQo7yE9VfW
+	 T3TOMbXcV6Qk/At77CE48ckj0mW9hkTPbSK9qZ1n6GsjCkFAMjLl56FZ+3QFbbh/k6
+	 NIgc8PjcRumZ+RgEfpCjHN5W4/+tz8Y92fEZPgRTCcotv5S+2tsEk8ZSzvoTGOWnKD
+	 QxzpBT4NTl2SN5iGsNC0Q+tOqaG4lKsHZwrCt+YzW6Nk2y+WBcuRrQeZX5g8tkvL+1
+	 KaotnLGpap7Gw==
+Received: from zlp46034.vci.att.com (zlp46034.vci.att.com [127.0.0.1]) by zlp46034.vci.att.com (Service) with ESMTP id 8E4DA810C79C for <lunarsitos.jedi@gmail.com>; Tue, 28 Nov 2023 21:29:13 +0000 (GMT)
+Received: from egs-east-mta.01.7983c.az.3pc.att.com (unknown [130.3.107.82]) by zlp46034.vci.att.com (Service) with ESMTPS id 5D158812CC67 for <lunarsitos.jedi@gmail.com>; Tue, 28 Nov 2023 21:29:13 +0000 (GMT)
+Received: from ATT (localhost [127.0.0.4]) by egs-east-mta.01.7983c.az.3pc.att.com (Postfix) with ESMTP id BEA0120001A0 for <lunarsitos.jedi@gmail.com>; Tue, 28 Nov 2023 21:29:12 +0000 (UTC)
+Date: Tue, 28 Nov 2023 15:29:12 -0600 (CST)
+From: "AT&T Signature Program/Appreciation Offer Enrollment" <update@emaildl.att-mail.com>
+Reply-To: "AT&T Signature Program/Appreciation Offer Enrollment" <update.1184572081@emaildl.att-mail.com>
+To: lunarsitos.jedi@gmail.com
+Message-ID: <572619884.315027.1701206952778@zlpvffb>
+Subject: Don't forget to upload your ID!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_315024_131880012.1701206952778"
+
+------=_Part_315024_131880012.1701206952778
+Content-Type: multipart/alternative; boundary="----=_Part_315025_1885922740.1701206952778"
+
+------=_Part_315025_1885922740.1701206952778
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+https://clicks.att.com
+serving ip addres > 20.69.201.137
+--------------------------------------------------------------
